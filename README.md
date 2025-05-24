@@ -24,8 +24,6 @@ Developed by: Nandika S
 Register number: 212224230175
 
 ```python
-Developed by : Priyanka.A
-Register number : 212222230113
 import numpy as np
 import math
 import matplotlib.pyplot as plt
